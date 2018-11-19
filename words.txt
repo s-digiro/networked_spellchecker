@@ -1,0 +1,10 @@
+test
+word
+another
+a
+do
+red
+blue
+green
+yellow
+purple

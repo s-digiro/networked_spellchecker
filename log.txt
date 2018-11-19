@@ -1,0 +1,16 @@
+
+NEW INSTANCE
+~~~~~~~~~~~~
+test OK
+ghty MISSPELLED
+word OK
+another OK
+good MISSPELLED
+good MISSPELLED
+good MISSPELLED
+test OK
+test OK
+
+NEW INSTANCE
+~~~~~~~~~~~~
+test OK
